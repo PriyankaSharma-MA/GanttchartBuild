@@ -1,0 +1,176 @@
+-----------------------------------------------------------------------------
+Date : 19-02-2019 11:54:21
+
+System.Net.WebException
+Message : The remote server returned an error: (404) Not Found.
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 241
+-----------------------------------------------------------------------------
+Date : 19-02-2019 22:57:41
+
+System.Net.WebException
+Message : The remote server returned an error: (404) Not Found.
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 241
+-----------------------------------------------------------------------------
+Date : 20-02-2019 00:06:08
+
+System.Net.WebException
+Message : The remote server returned an error: (404) Not Found.
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 241
+-----------------------------------------------------------------------------
+Date : 03-05-2019 16:51:38
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 77
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 223
+-----------------------------------------------------------------------------
+Date : 03-05-2019 17:09:24
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 79
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 223
+-----------------------------------------------------------------------------
+Date : 03-05-2019 17:13:36
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 79
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 223
+-----------------------------------------------------------------------------
+Date : 03-05-2019 17:14:54
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 79
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 223
+-----------------------------------------------------------------------------
+Date : 03-05-2019 17:24:45
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 79
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 223
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:10:50
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 82
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:10:51
+
+System.Net.WebException
+Message : The remote name could not be resolved: 'spweb.otis.com'
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 230
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:12:40
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 82
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:12:40
+
+System.Net.WebException
+Message : The remote name could not be resolved: 'spweb.otis.com'
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFile() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 230
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:27:19
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 82
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:27:33
+
+System.Net.WebException
+Message : The remote name could not be resolved: 'spweb.otis.com'
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFileFunction() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 222
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:31:00
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 82
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:31:01
+
+System.Net.WebException
+Message : The remote name could not be resolved: 'spweb.otis.com'
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFileFunction() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 222
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:37:00
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 82
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:37:01
+
+System.Net.WebException
+Message : The remote name could not be resolved: 'spweb.otis.com'
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFileFunction() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 222
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:37:06
+
+System.FormatException
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at GanttChart.App_Code.Decryption.DecryptNew(String cryptTxt) in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\App_Code\Decryption.cs:line 82
+-----------------------------------------------------------------------------
+Date : 16-05-2019 22:37:07
+
+System.Net.WebException
+Message : The remote name could not be resolved: 'spweb.otis.com'
+StackTrace :    at System.Net.WebClient.OpenRead(Uri address)
+   at System.Net.WebClient.OpenRead(String address)
+   at GanttChart.Controllers.CSVController.uploadSharePointFileFunction() in c:\OTIS_project\GanttChart_API\GanttChart\GanttChart\Controllers\CSVController.cs:line 222
